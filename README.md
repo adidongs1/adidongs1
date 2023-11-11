@@ -23,6 +23,10 @@ I'm majoring in S1 Informatics and currently active as a student. I'm proficient
 
 **Bahasa (Fluent) | English (Begginer)**
 
+## How To Reach Me
+
+- **[Linkedin](https://www.linkedin.com/in/adiarifin15/)**
+
 
 
 
