@@ -15,9 +15,11 @@ I'm majoring in S1 Informatics and currently active as a student. I'm proficient
 
 ## Software Skills
 - Hands-on practice with MS Word, Excel, and PowerPoint.
-- Proficient with the internet, social media, and blogging.
+- Proficient in using the internet, and social media.
 - Familiar with WordPress, Canva, Figma.
-- Knowledge of JavaScript, HTML, HTML5, CSS, jQuery and Bootstrap.
+- Knowledge of JavaScript, HTML, CSS.
+- Familiar in using framework CSS like Bootstrap and TailwindCSS
+- Experience using javascript libraries such as reactJS (Vite)
 
 ## Languages Known
 
