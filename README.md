@@ -1,6 +1,4 @@
 # Adi Arifin
-![Adi Arifin](https://media.licdn.com/dms/image/D5603AQEFspAoMfIGZw/profile-displayphoto-shrink_200_200/0/1691680189600?e=1701907200&v=beta&t=FARbhs_-_llZmuEm3QZTQ8kLsBfvay6V6QdcE_x987I)
-
 
 Hi, I'm @adidongs1 a final year student at Amikom University Yogyakarta 
 
