@@ -1,43 +1,61 @@
-# Adi Arifin
+# Hi, I'm Adi 👋  
 
-Hi, I'm @adidongs1 a final year student at Amikom University Yogyakarta 
+IT Support | Aspiring Full-Stack Developer  
 
-I'm majoring in S1 Informatics and currently active as a student. I'm proficient in HTML, CSS, JavaScript, and Bootstrap Framework, say Front End Developer. My goal is to become a web development expert in Indonesia.
+---
 
-## Technical Skills
+## 👨‍💻 About Me
 
-- Proficient in coding and testing programs according to design specifications.
-- Acquired ability to develop web.
-- Knowledge of programming and UI-UX design.
-- Aptitude for responsive web design optimization.
+I am an IT Support professional with hands-on experience in troubleshooting hardware, software, and network systems. I have supported system rollouts, device provisioning, and infrastructure setup in operational environments.
 
-## Software Skills
-- Hands-on practice with MS Word, Excel, and PowerPoint.
-- Proficient in using the internet, and social media.
-- Familiar with WordPress, Canva, Figma.
-- Knowledge of JavaScript, HTML, CSS.
-- Familiar in using framework CSS like Bootstrap and TailwindCSS
-- Experience using javascript libraries such as reactJS (Vite)
+I am also highly interested in Web Development and continuously improving my skills toward becoming a Full-Stack Developer.
 
-## Languages Known
+I enjoy solving problems, optimizing systems, and learning new technologies.
 
-**Bahasa (Fluent) | English (Begginer)**
+---
 
-## How To Reach Me
+## 🛠 Technical Skills
 
-- **[Linkedin](https://www.linkedin.com/in/adiarifin15/)**
+### 💻 IT Support & Infrastructure
+- Hardware & Software Troubleshooting
+- Network Installation & Configuration
+- Device Provisioning & Inventory Management
+- System & User Support (Helpdesk / Remote Support)
+- CCTV & Router Configuration
 
+### 🌐 Web Development
+- HTML & CSS
+- JavaScript
+- React.js
+- Laravel
+- MySQL
+- Tailwind CSS
+- Bootstrap
+- Git & GitHub
 
+---
 
+## 🚀 What I’m Currently Focusing On
+- Strengthening system troubleshooting & infrastructure knowledge
+- Deepening full-stack web development skills
+- Building real-world projects
+- Improving clean code & system design understanding
 
+---
 
+## 📈 Professional Value
 
-<!---
-- 👋 Hi, I’m @adidongs1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-adidongs1/adidongs1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Problem Solver Mindset  
+- Fast Learner & Adaptable  
+- Comfortable Working in Dynamic Environments  
+- Strong Communication & Team Collaboration  
+
+---
+
+## 📫 Let’s Connect
+- LinkedIn: (your-linkedin-url)
+- Email: (your-email)
+
+---
+
+> “Technology should solve problems — not create them.”
