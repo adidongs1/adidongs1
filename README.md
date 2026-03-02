@@ -53,8 +53,8 @@ I enjoy solving problems, optimizing systems, and learning new technologies.
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: (your-linkedin-url)
-- Email: (your-email)
+- LinkedIn: https://www.linkedin.com/in/adiarifin15/
+- Email: adidongs15@gmail.com
 
 ---
 
